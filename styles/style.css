@@ -3,3 +3,8 @@
 .font-poppins{
     font-family: "Poppins", sans-serif;
 }
+
+.artboard.phone-6.artboard-horizontal {
+    width: 600px;
+    height: 300px;
+}
